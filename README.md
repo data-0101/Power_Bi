@@ -1,2 +1,2 @@
 # Power_Bi
-all 
+all .pibx files
